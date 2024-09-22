@@ -1,3 +1,8 @@
+# All extensionless files are ignored
+*
+# but not
+!.gitignore
+
 # Prerequisites
 *.d
 
